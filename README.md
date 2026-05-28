@@ -127,10 +127,10 @@ O site é totalmente responsivo e se adapta aos seguintes dispositivos:
 ---
 - ## :link: Links
 
-- [GitHub](https://github.com/IBruninhooDev)
+- [GitHub](https://github.com/DevIBrunoo)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/____brunoo77/)
+- [Instagram](https://www.instagram.com/devibrunoo/)
 ---
 
-Desenvolvido com :heart: por [BrunoCarus](https://github.com/IBruninhooDev) 
+Desenvolvido com :heart: por [BrunoCarus](https://github.com/DevIBrunoo) 
 © 2026 IBruninhooDev. Todos os direitos reservados.
